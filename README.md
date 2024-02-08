@@ -1,4 +1,5 @@
 # StayDestination
+- Task: https://stay-app.notion.site/stay-app/Prueba-T-cnica-React-Native-cfc721ac6a0547ac9c7cb8e684c57f83
 
 ## Project Installation 🧑🏻‍💻
 
