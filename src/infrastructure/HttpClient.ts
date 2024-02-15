@@ -1,7 +1,7 @@
 import { config } from '../../config';
 
 class HttpClient {
-  async get(url: string): Promise<any> {
+  async get<T>(url: string): Promise<T> {
     const apiUrl = `${config.API_URL}/establishments/${url}?apikey=${config.API_KEY}`;
 
     try {
